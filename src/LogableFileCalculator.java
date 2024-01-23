@@ -3,7 +3,6 @@ import util.LogConnector;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Date;
-import java.util.List;
 
 public class LogableFileCalculator implements Calculable {
     private final Calculable calculable;

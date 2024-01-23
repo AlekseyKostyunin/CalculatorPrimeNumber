@@ -1,6 +1,3 @@
-/**
- Valid Mathematical Operations.
- */
 public enum Operators {
     PLUS("+"), MINUS("-"), MULTI("*"), DIVIDE("/");
 

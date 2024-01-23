@@ -1,7 +1,7 @@
 public class ComplexNumber {
 
-    private double real; // вещественная часть числа
-    private double imaginary; // мнимая часть числа
+    private final double real; // вещественная часть числа
+    private final double imaginary; // мнимая часть числа
     //private ComplexNumber result;
 
     ComplexNumber(double real, double imaginary) {
@@ -17,15 +17,7 @@ public class ComplexNumber {
         return imaginary;
     }
 
-    public void setReal(double real) {
-        this.real = real;
-    }
-
-    public void setImaginary(double imaginary) {
-        this.imaginary = imaginary;
-    }
-
-    @Override
+       @Override
     public String toString() {
         return "ComplexNumber{" +
                 "real=" + real +
