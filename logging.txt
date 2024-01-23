@@ -1,0 +1,8 @@
+Tue Jan 23 20:28:09 YEKT 2024:
+Суммирую ComplexNumber{real=1.0, imaginary=2.0} ComplexNumber{real=3.0, imaginary=3.0}
+Результат: комплексное число: 4.0i + (5.0)
+===========================================
+Tue Jan 23 20:28:25 YEKT 2024:
+Умножаю ComplexNumber{real=8.0, imaginary=8.0} ComplexNumber{real=8.0, imaginary=566.0}
+Результат: комплексное число: -4464.0i + (4592.0)
+===========================================
